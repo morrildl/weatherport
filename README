@@ -1,0 +1,3 @@
+This is a toy app that loads airport weather data from ws.geonames.org, and
+displays it in a vaguely amusing Android UI. It was just a learning exercise
+for WebView v2 and some of the support library components.
